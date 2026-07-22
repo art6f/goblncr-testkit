@@ -8,8 +8,8 @@ data:
   DOCKER_INFLUXDB_INIT_BUCKET: request_stats
   DOCKER_INFLUXDB_INIT_MODE: setup
   DOCKER_INFLUXDB_INIT_ORG: goblncr-test
-  DOCKER_INFLUXDB_INIT_PASSWORD: admin
   DOCKER_INFLUXDB_INIT_USERNAME: admin
+  DOCKER_INFLUXDB_INIT_PASSWORD: adminpass
   
   pods_distribution_dashboard.json: |-
     [
